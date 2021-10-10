@@ -1,4 +1,5 @@
 ﻿// Reverse an array
+// Technique - Read the array from last to first using for loop.
 
 int[] arr = new int[] { 1, 2, 3 };
 
